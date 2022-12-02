@@ -1,0 +1,48 @@
+.packages {
+     margin: 150px 0;
+
+}
+.packages_hr {
+     height: 7px;
+     background-color: red;
+     margin-bottom: 20px;
+}
+.package_learn_more {
+     background-color: transparent;
+     color: #23A6F0;
+     font-size: 1.2em;
+     margin: 20px 0;
+}
+.pachage_col_2 {
+     position: relative;
+     
+}
+.package_image_blue {
+     position: absolute;
+     left: -50px;
+}
+@media all and (max-width : 440px) {
+     .package_image_personne {
+          width: 300px;
+     }
+     .package_image_red {
+          display: none;
+     }
+}
+/* .package_image_personne {
+
+} */
+.package_image_red {
+     margin-bottom: -285px;
+     margin-left: 10px;
+}
+.package_calendrier {
+     position: absolute;
+     left: -100px;
+     top: 10px;
+}
+.package_single {
+     position: absolute;
+     bottom: -50px;
+     left: -100px;
+}

@@ -1,0 +1,63 @@
+.banner {
+     background-color: #252B42;
+     width: 100%;
+}
+.banner_conteneur_text {
+     width: 90%;
+     margin: 0px auto;
+     text-align: center;
+     color: white;
+}
+.banner_title {
+     padding: 70px 0 50px;
+     color: #23A6F0;
+}
+.banner_title2 {
+     letter-spacing: 2px;
+     font-weight: 700;
+     line-height: 45px;
+     margin-bottom: 30px;
+}
+.banner_conteneur_btn {
+     margin: 20px 0 60px;
+}
+.get_quote_now {
+     background-color: #23A6F0;
+     padding: 10px 30px;
+     margin-right: 10px;
+     transition: all 300ms ease-in-out;
+}
+.get_quote_now:hover {
+     background-color: white;
+     color: #23A6F0;
+     padding: 10px 30px;
+}
+.learn_more {
+     background-color: transparent;
+     border: 1px solid #23A6F0;
+     color: #23A6F0;
+     padding: 10px 30px;
+}
+.learn_more:hover {
+     background-color: #23A6F0;
+     color: #252B42;
+     padding: 10px 30px;
+}
+.banner_col {
+     background-color: white;
+     padding: 30px 40px;
+     margin: 0 20px;
+}
+.banner_col_bleu {
+     background-color: #23A6F0;
+     color: white;
+}
+.banner_card_hr {
+     color: red;
+     height: 2px;
+     background-color: red;
+}
+.banner_card_hr_white {
+     color: white;
+    background-color: white;
+}

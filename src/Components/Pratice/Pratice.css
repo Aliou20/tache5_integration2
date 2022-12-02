@@ -1,0 +1,51 @@
+.pratice {
+     width: 100%;
+     margin: 150px 0;
+}
+.pratice_title1 {
+     color: #23A6F0;
+     font-weight: 700;
+}
+.pratice_card {
+     position : relative;
+}
+.pratice_sale {
+     position: absolute;
+     top: 10px;
+     left: 10px;
+     padding: 5px 15px;
+     background-color: red;
+}
+.pratice_conteneur_icon {
+     position: absolute;
+     bottom: 390px;
+     left: 80px;
+}
+.pratice_icon {
+     margin: 0 5px;
+}
+.pratice_profil_text {
+     /* position: absolute;
+     bottom: -70px; */
+     width: 70%;
+     position: relative;
+     top: -20px;
+     /* margin: 0 auto */
+     /* left: 0; */
+}
+.pratice_profil_title1 {
+     color : #23A6F0;
+     font-weight: 700;
+}
+.pratice_button {
+     background-color: transparent;
+     color: #23A6F0;
+     margin: 20px 0;
+     border: 1px solid #23A6F0;
+     padding: 9px 20px;
+     border-radius:20px;
+     font-weight: bold;
+}
+.pratice_conteneur_card {
+     margin: 100px 0;
+}

@@ -1,0 +1,17 @@
+.products {
+     width: 100%;
+     margin: 100px 0;
+}
+.product_button {
+     background-color: #23A6F0;
+     padding: 10px 20px;
+     color: white;
+     border-radius: 0px 5px 5px 0;
+}
+.product-input {
+     padding: 10px 20px;
+     border: none;
+     background-color: #eee;
+     width: 100%;
+     
+}

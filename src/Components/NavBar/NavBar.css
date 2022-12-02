@@ -1,0 +1,19 @@
+.header {
+     background-color : #252B42;
+     position: fixed;
+     width: 100%;
+     z-index: 1;
+}
+button {
+     border: none;
+     color: white;
+     font-weight: 700;
+}
+.login {
+     background-color: transparent;
+}
+.join {
+     padding: 10px 17px;
+     background-color: #23A6F0;
+     margin-left: 25px;
+}

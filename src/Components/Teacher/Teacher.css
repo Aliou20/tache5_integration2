@@ -1,0 +1,14 @@
+.teacher {
+     margin: 100px 0;
+     width: 100%;
+}
+.user {
+     border-radius: 50%;
+}
+.teacher_row {
+     margin: 90px 0;
+}
+.teacher_etoile {
+     width: 22px;
+     margin: 0 2px;
+}
